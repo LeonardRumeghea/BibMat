@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607071343 source:c:\users\leonard\onedrive\desktop\bibmat\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<winbgim.h>
+
+1609779607 source:c:\users\leonard\onedrive\desktop\ \bibmat\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<winbgim.h>
+
